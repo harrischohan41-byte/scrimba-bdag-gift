@@ -1,0 +1,4 @@
+[build]
+  base    = "Scrim-s02vbvc"
+  command = "npm install && npm run build"
+  publish = "dist"
